@@ -23,3 +23,9 @@ The CSS file defines the visual design and aesthetics of the web application. It
 The real functional logic of the application resides in the JavaScript file. It captures the city name entered by the user, validates the input, and then constructs an API request URL using the OpenWeatherMap API. If the input is valid, the application sends a fetch request to retrieve weather data in real time. Upon receiving a successful response, it extracts useful information such as temperature, weather conditions (like clear, cloudy, rain), humidity, and wind speed, and then dynamically updates the result section of the web page to display these details in a formatted and readable manner. In case of any error—such as a wrong city name or network issue—the application gracefully handles it by showing appropriate alert messages to guide the user.
 
 This task demonstrates the practical use of web development skills and how different technologies can be combined to create a useful tool. It also reflects a clear understanding of asynchronous programming using JavaScript, effective use of APIs, and the importance of user interface design. This project should be documented in an internship project report or a professional portfolio under a section titled “Weather Dashboard Web Application,” where all relevant code files, screenshots, API details, and deployment steps (if any) are included. It serves as a foundational example of how a simple idea—like checking the weather—can be transformed into a real, working application using modern web technologies.
+
+*OUTPUT*:
+
+<!-- Uploading "Screenshot 2025-07-22 205147.png"... -->
+<!-- Uploading "Screenshot 2025-07-22 205159.png"... -->
+<!-- Uploading "Screenshot 2025-07-22 205209.png"... -->
