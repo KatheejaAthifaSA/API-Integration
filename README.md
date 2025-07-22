@@ -26,6 +26,6 @@ This task demonstrates the practical use of web development skills and how diffe
 
 *OUTPUT*:
 
-<!-- Uploading "Screenshot 2025-07-22 205147.png"... -->
-<!-- Uploading "Screenshot 2025-07-22 205159.png"... -->
-<!-- Uploading "Screenshot 2025-07-22 205209.png"... -->
+<img width="1137" height="859" alt="Image" src="https://github.com/user-attachments/assets/84e1e15b-b323-4df4-9a2d-c9206b9caefe" />
+<img width="1137" height="859" alt="Image" src="https://github.com/user-attachments/assets/4251350b-e792-4d9e-af37-2b2c10cd14ff" />
+<img width="1137" height="859" alt="Image" src="https://github.com/user-attachments/assets/d9b8fdd5-401b-4b24-aa27-9594449491d1" />
